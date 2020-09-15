@@ -27,16 +27,13 @@ nav:hover {
     color: whitesmoke;
 }
 
+
+
 .carousel {
     top: -25px;
     /*
     background-color: rgba(108, 122, 137, 1);
     opacity: .5;
     z-index: 100;
-*/
-
-}
-
-.carousel > img-fluid {
-    height: 500px;
+*
 }
